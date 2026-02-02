@@ -71,6 +71,12 @@ The dashboard is designed to help business users quickly identify **growth oppor
 ## Dashboard Preview
 Dashboard screenshots :(https://github.com/rajveerpatil759-cell/superstore-powerbi-dashboard/blob/main/Overview%20of%20dashboard%20.png)
 (https://github.com/rajveerpatil759-cell/superstore-powerbi-dashboard/blob/main/profitability%20analysis%20.png)
+## 📷 Dashboard Preview
+
+### 🔹 Overview Dashboard
+![Overview Dashboard](Overview of dashboard .png)
+### 🔹 Category & Profit Analysis
+![Category Analysis Dashboard](Screenshots/category_analysis_dashboard.png)
 
 ---
 
