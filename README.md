@@ -69,7 +69,8 @@ The dashboard is designed to help business users quickly identify **growth oppor
 ---
 
 ## Dashboard Preview
-Dashboard screenshots are available in the **Screenshots** folder for quick reference.
+Dashboard screenshots :https://github.com/rajveerpatil759-cell/superstore-powerbi-dashboard/blob/main/Overview%20of%20dashboard%20.png
+https://github.com/rajveerpatil759-cell/superstore-powerbi-dashboard/blob/main/profitability%20analysis%20.png
 
 ---
 
