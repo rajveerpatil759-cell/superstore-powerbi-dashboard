@@ -1,4 +1,4 @@
-# 📊 Superstore Sales Analysis – Power BI Dashboard
+#  Superstore Sales Analysis – Power BI Dashboard
 
 ## Project Overview
 This project features an **interactive Power BI dashboard** developed using the Superstore dataset to analyze sales performance, profitability, customer behavior, and the impact of discounts.  
@@ -23,7 +23,7 @@ The dashboard is designed to help business users quickly identify **growth oppor
 
 ---
 
-## 📊 Dashboard Highlights
+##  Dashboard Highlights
 
 ### Sales & Order Trends
 - Monthly trend analysis shows **sales peaking in November**, driven by higher order volume.
@@ -57,7 +57,7 @@ The dashboard is designed to help business users quickly identify **growth oppor
 
 ---
 
-## 🛠 Tools & Technologies Used
+## Tools & Technologies Used
 - **Power BI**
 - **DAX** (Measures, KPIs, Aggregations)
 - **Data Cleaning & Transformation**
