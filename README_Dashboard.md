@@ -59,7 +59,7 @@ superstore-dashboard/
 ### Page 1 — Executive Overview
 **Business Question:** Is the company healthy — profitable, growing, and operationally efficient?
 
-![Page 1 - Overview](screenshots/page1_overview.png)
+![Page 1 - Overview]([screenshots/page1_overview.png](https://github.com/rajveerpatil759-cell/superstore-powerbi-dashboard/blob/main/Overview.png))
 
 **KPIs:** Total Revenue, Total Profit, Total Orders, Profit Margin %, Loss Rate % — all with YoY growth indicators (▲/▼)
 
