@@ -74,7 +74,7 @@ superstore-dashboard/
 ### Page 2 — Product Profitability
 **Business Question:** Which products make money and which destroy margin?
 
-![Page 2 - Product Profitability](https://github.com/rajveerpatil759-cell/superstore-powerbi-dashboard/blob/main/Overview.png)
+![Page 2 - Product Profitability](https://github.com/rajveerpatil759-cell/superstore-powerbi-dashboard/blob/main/Product%20Profitability.png)
 
 **KPIs:** Total Revenue, Total Profit, Profit Margin %
 
@@ -256,7 +256,7 @@ MAXX(
 
 **Rajveer**
 - [rajveerpatil759@gmail.com]
--  [LinkedIn](www.linkedin.com/in/rajveerpatil019)
+-  [LinkedIn](https://www.linkedin.com/in/rajveerpatil019)
 
 
 ---
