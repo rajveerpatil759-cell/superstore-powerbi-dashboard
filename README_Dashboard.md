@@ -74,7 +74,7 @@ superstore-dashboard/
 ### Page 2 — Product Profitability
 **Business Question:** Which products make money and which destroy margin?
 
-![Page 2 - Product Profitability](screenshots/page2_product.png)
+![Page 2 - Product Profitability](https://github.com/rajveerpatil759-cell/superstore-powerbi-dashboard/blob/main/Overview.png)
 
 **KPIs:** Total Revenue, Total Profit, Profit Margin %
 
@@ -89,7 +89,7 @@ superstore-dashboard/
 ### Page 3 — Regional & State Performance
 **Business Question:** Where is the business winning and where is it bleeding geographically?
 
-![Page 3 - Regional Performance](screenshots/page3_regional.png)
+![Page 3 - Regional Performance](https://github.com/rajveerpatil759-cell/superstore-powerbi-dashboard/blob/main/Regional%20and%20State%20Performance.png)
 
 **KPIs:** Total Revenue, Total Profit, Profit Margin %
 
@@ -104,7 +104,7 @@ superstore-dashboard/
 ### Page 4 — Discount & Margin Analysis
 **Business Question:** Is discounting driving growth or systematically destroying profit?
 
-![Page 4 - Discount Analysis](screenshots/page4_discount.png)
+![Page 4 - Discount Analysis](https://github.com/rajveerpatil759-cell/superstore-powerbi-dashboard/blob/main/Discount%20Margin%20Analysis.png)
 
 **KPIs:** Total Discount Given, Loss Orders, Loss Rate %, Avg Discount %
 
@@ -119,7 +119,7 @@ superstore-dashboard/
 ### Page 5 — Customer Intelligence
 **Business Question:** Who are the best customers and which segments are most valuable?
 
-![Page 5 - Customer Intelligence](screenshots/page5_customer.png)
+![Page 5 - Customer Intelligence](https://github.com/rajveerpatil759-cell/superstore-powerbi-dashboard/blob/main/Customer%20Intelligence.png)
 
 **KPIs:** Total Customers, Revenue per Customer, Repeat Rate (98.49%)
 
@@ -134,7 +134,7 @@ superstore-dashboard/
 ### Page 6 — Time & Seasonal Trends
 **Business Question:** When does the business peak and is growth sustainable?
 
-![Page 6 - Time Trends](screenshots/page6_trends.png)
+![Page 6 - Time Trends](https://github.com/rajveerpatil759-cell/superstore-powerbi-dashboard/blob/main/Time%20%26%20Seasonal%20Trends.png)
 
 **KPIs:** YoY Revenue Growth %, Best Season (dynamic), Best Month (dynamic)
 
