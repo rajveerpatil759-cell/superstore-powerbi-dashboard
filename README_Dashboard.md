@@ -1,10 +1,10 @@
-# 📊 Superstore Sales — Power BI Dashboard
+#  Superstore Sales — Power BI Dashboard
 
 > Interactive 6-page Power BI dashboard built on 4 years of US retail superstore data, featuring dynamic DAX measures, YoY indicators, and insight-driven visuals.
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 **Project Title:** Superstore Sales Power BI Dashboard
 **Tool:** Power BI Desktop, DAX
@@ -12,14 +12,14 @@
 This dashboard transforms raw superstore sales data into actionable business intelligence across 6 focused pages. Every visual answers a specific business question — the goal was decision-driven analytics, not just data display.
 
 **Tools Used:**
-- 📊 Power BI Desktop — dashboard development
-- 📐 DAX — 30+ calculated measures and KPI indicators
-- 🐍 Python (pandas) — data preparation
-- 🐙 GitHub — version control
+-  Power BI Desktop — dashboard development
+-  DAX — 30+ calculated measures and KPI indicators
+-  Python (pandas) — data preparation
+-  GitHub — version control
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 
 ```
 superstore-dashboard/
@@ -40,7 +40,7 @@ superstore-dashboard/
 
 ---
 
-## 📊 Dataset Overview
+##  Dataset Overview
 
 | Metric | Value |
 |--------|-------|
@@ -54,7 +54,7 @@ superstore-dashboard/
 
 ---
 
-## 📈 Dashboard Pages
+##  Dashboard Pages
 
 ### Page 1 — Executive Overview
 **Business Question:** Is the company healthy — profitable, growing, and operationally efficient?
@@ -208,7 +208,7 @@ MAXX(
 
 ---
 
-## 🔑 Key Business Insights
+##  Key Business Insights
 
 ### 1. Discounting is the #1 profit killer
 - No-discount orders earn **29.5% margin**
@@ -242,7 +242,7 @@ MAXX(
 
 ---
 
-## 🚀 How to Open
+##  How to Open
 
 1. Download **Power BI Desktop** (free) from microsoft.com
 2. Open `superstore_dashboard.pbix`
@@ -255,13 +255,13 @@ MAXX(
 ## 👤 Author
 
 **Rajveer**
-- 📧 [your email]
-- 💼 [your LinkedIn]
-- 🐙 [your GitHub]
+- [rajveerpatil759@gmail.com]
+-  [LinkedIn](www.linkedin.com/in/rajveerpatil019)
+
 
 ---
 
-## 📄 License
+##  License
 
 This project is for portfolio and educational purposes.
 Data source: Superstore Sales Dataset (publicly available sample retail dataset)
